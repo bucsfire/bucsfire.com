@@ -1,6 +1,6 @@
 {
-  "title": "anydub",
-  "url": "https://anydub.com",
+  "title": "bucsfire",
+  "url": "https://bucsfire.com",
   "subtitle": "",
   "copyright": "© All rights reserved.",
   "googleAnalyticsId":"G-KRWBF2E4TG",
@@ -18,23 +18,23 @@
     }
   ],
   "author": {
-    "name": "anydub",
-    "photo": "/static/media/anydub.png",
+    "name": "bucsfire",
+    "photo": "/static/media/bucsfire.png",
     "bio": "dub anything, keep dubbing",
     "contacts": {
       "rss": "",
       "email": "",
-      "github": "apptain",
-      "facebook": "apptain",
+      "github": "bucsfire",
+      "facebook": "bucsfire",
       "telegram": "",
-      "twitter": "apptain",
-      "linkedin": "apptain",
-      "instagram": "apptain",
+      "twitter": "bucsfire",
+      "linkedin": "bucsfire",
+      "instagram": "bucsfire",
       "line": "",
       "weibo": "",
       "gitlab": "",
       "medium": "",
-      "youtube": "apptain",
+      "youtube": "bucsfire",
       "codepen": "",
       "soundcloud": ""
     }
